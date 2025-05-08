@@ -13,7 +13,7 @@ In this Kartra review, I’ll walk you through its key features, pricing, pros a
 Let’s get into it.
 
 ## What Is Kartra? 
-![Kartra](image-6.png)
+![Kartra overview](image.png)(https://www.bloggersideas.com/Recommended/kartra/)
 
 Kartra is an all-in-one platform designed to help small businesses and entrepreneurs sell their products or services online.
 
@@ -25,7 +25,7 @@ Instead of switching between different tools, Kartra puts everything you need in
 
 Think of it as a complete digital toolkit for running your online business smoothly and efficiently.
 
-![alt text](image-2.png)(https://www.bloggersideas.com/Recommended/kartra/)
+![Kartra CTA](image-1.png)(https://www.bloggersideas.com/Recommended/kartra/)
 
 ## Who Is Kartra For?
 
@@ -60,7 +60,7 @@ You can map out each step of your customer's journey—from landing page to chec
 You can also A/B test different versions to see what works best and improve your conversion rates.
 
 ### 3. Email Marketing & Automation
-![alt text](image-3.png)
+![Kartra Feature](image-3.png)
 
 Email is still one of the most effective ways to grow an online business, and Kartra takes it seriously.
 
@@ -97,7 +97,7 @@ You can add CTAs (calls to action), email opt-ins, or automation triggers based 
 This is super helpful for webinars, VSLs (video sales letters), and training content—especially when you want to follow up with viewers automatically.
 
 ## 7. Helpdesk and Customer Support Tools
-![alt text](image-4.png)
+![Kartra Feature](image-4.png)
 
 Kartra isn’t just about selling—it also helps you support your customers.
 
@@ -107,11 +107,11 @@ Instead of using tools like Zendesk or Freshdesk, everything is available right 
 
 This means you can handle both marketing and support without switching platforms, making life easier for you and your customers.
 
-![alt text](image-2.png)(https://www.bloggersideas.com/Recommended/kartra/)
+![Kartra CTA](image-2.png)(https://www.bloggersideas.com/Recommended/kartra/)
 
 ## Kartra Pricing Plans Overview
 
-![alt text](image-5.png)
+![Kartra Pricing](image-5.png)
 
 $1 Trial:
 Try Kartra for 30 days for just $1.
@@ -131,7 +131,7 @@ Professional Plan – $549/month
 Includes 25,000 contacts, 5 domains, and up to 20 team members.
 Best for advanced marketing teams and growing agencies.
 
-![alt text](image-2.png)(https://www.bloggersideas.com/Recommended/kartra/)
+![Kartra CTA](image-2.png)(https://www.bloggersideas.com/Recommended/kartra/)
 
 ## Kartra Pros and Cons
 
@@ -181,7 +181,7 @@ I’ve used nearly every funnel and marketing platform out there, and Kartra is 
 
 For solopreneurs and small teams ready to scale with automation and efficiency, it’s a no-brainer.
 
-Learn More About Kartra(https://www.affiliatebooster.com/kartra-review/) at Affiliate Booster. 
+Learn More About [Kartra](https://www.affiliatebooster.com/kartra-review/) at Affiliate Booster. 
 
 
 
