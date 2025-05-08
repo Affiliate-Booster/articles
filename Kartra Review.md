@@ -13,7 +13,7 @@ In this Kartra review, I’ll walk you through its key features, pricing, pros a
 Let’s get into it.
 
 ## What Is Kartra? 
-![Kartra overview]
+![Kartra Overview](image-4.png)
 Kartra is an all-in-one platform designed to help small businesses and entrepreneurs sell their products or services online.
 
 It allows you to build websites, landing pages, sales funnels, email campaigns, and even online courses—all without needing to know how to code.
@@ -94,7 +94,7 @@ You can add CTAs (calls to action), email opt-ins, or automation triggers based 
 
 This is super helpful for webinars, VSLs (video sales letters), and training content—especially when you want to follow up with viewers automatically.
 
-## 7. Helpdesk and Customer Support Tools
+### 7. Helpdesk and Customer Support Tools
 
 Kartra isn’t just about selling—it also helps you support your customers.
 
@@ -108,21 +108,25 @@ This means you can handle both marketing and support without switching platforms
 
 ![Kartra Pricing](image-3.png)
 
-$1 Trial:
+### $1 Trial:
+
 Try Kartra for 30 days for just $1.
 Build pages, create courses, collect leads, and send up to 1,000 emails.
 
-Starter Plan – $99/month for first 3 months
+### Starter Plan – $99/month for first 3 months
+
 Get your first 3 months for $99/month, then $119/month after.
 Billed monthly.
 Includes unlimited emails, 2,500 contacts, 1 domain, and up to 5 team members.
 Great for solopreneurs and small teams.
 
-Growth Plan – $229/month
+### Growth Plan – $229/month
+
 Includes 12,500 contacts, 3 domains, and up to 10 team members.
 Perfect for scaling businesses.
 
-Professional Plan – $549/month
+### Professional Plan – $549/month
+
 Includes 25,000 contacts, 5 domains, and up to 20 team members.
 Best for advanced marketing teams and growing agencies.
 
@@ -133,16 +137,25 @@ Best for advanced marketing teams and growing agencies.
 ### Pros
 
 ✅ Truly all-in-one platform
+
 ✅ Advanced automation and tagging
+
 ✅ Integrated video, email, and landing pages
+
 ✅ Built-in affiliate management
+
 ✅ Clean UI with consistent updates
+
 ✅ Fast customer support
 
 ### Cons
+
 ❌ Learning curve for beginners
+
 ❌ Slightly dated page editor UI
+
 ❌ No native blogging feature (use WordPress or Ghost separately)
+
 ❌ Limited design flexibility compared to standalone builders
 
 ## Kartra vs the Competition
@@ -156,15 +169,19 @@ Here’s how Kartra stacks up:
 
 ## FAQs About Kartra
 1. Is Kartra good for beginners?
+
 It has a learning curve, but their templates and tutorials help. If you're committed to scaling, it’s worth the upfront effort.
 
 2. Does Kartra replace my email tool?
+
 Yes. It has a robust built-in email marketing system with automations.
 
 3. Can I blog on Kartra?
+
 Not natively. You’ll want to use WordPress or Ghost for blogging and link it.
 
 4. Is there a free trial for Kartra?
+
 Yes, Kartra offers a 14-day trial (sometimes for $1). Take advantage of it to test all the features.
 
 ## Final Verdict: Is Kartra Worth It?
@@ -176,7 +193,7 @@ I’ve used nearly every funnel and marketing platform out there, and Kartra is 
 
 For solopreneurs and small teams ready to scale with automation and efficiency, it’s a no-brainer.
 
-Learn More About [Kartra](https://www.affiliatebooster.com/kartra-review/) at Affiliate Booster. 
+### Learn More About [Kartra](https://www.affiliatebooster.com/kartra-review/) at Affiliate Booster. 
 
 
 
