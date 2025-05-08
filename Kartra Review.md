@@ -13,7 +13,7 @@ In this Kartra review, I’ll walk you through its key features, pricing, pros a
 Let’s get into it.
 
 ## What Is Kartra? 
-!(image.png)
+![Kartra](image-6.png)
 
 Kartra is an all-in-one platform designed to help small businesses and entrepreneurs sell their products or services online.
 
